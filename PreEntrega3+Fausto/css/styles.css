@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=DM+Serif+Display&family=Lora&family=Playfair+Display+SC&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Cormorant+Garamond&family=DM+Serif+Display&family=Lora&family=Playfair+Display+SC&display=swap");
+* {
+  margin: 0;
+  padding: 3px; }
+
+header {
+  background-color: #E8E9E8; }
+  header h1 {
+    font-family: 'DM Serif Display', serif !important; }
+
+nav {
+  padding-top: 6px;
+  padding-bottom: 6px; }
+
+main .slide {
+  margin-top: 10px; }
+
+main .slide img {
+  width: 50vw;
+  height: 70vh; }
+
+main div h2 {
+  font-family: 'Lora', serif !important; }
+
+#form {
+  border: 1px solid black;
+  text-align: center; }
+
+footer {
+  background-color: #E8E9E8;
+  text-align: center; }
+  footer h2 {
+    font-family: 'Lora', serif !important; }
